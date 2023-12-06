@@ -1,0 +1,22 @@
+
+  /* Gaya untuk tautan dengan ikon */
+  .icon-link {
+    display: inline-flex;
+    align-items: right; /* Mengatur teks ke kanan */
+  }
+
+  /* Gaya untuk ikon */
+  .icon {
+    font-size: 24px; /* Ukuran ikon */
+    margin-left: 5px; /* Jarak antara teks dan ikon */
+  }
+
+  .ukuran-tulisan {
+    font-size: 12px;
+}
+
+
+
+
+
+
